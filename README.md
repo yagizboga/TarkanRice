@@ -17,16 +17,9 @@
 
 <h2 align="center">Details<h2>
 
-<table align="center">
-  <tr>
-    <td>Colors</td>
-    <td>Breeze Dark</td>
-  </tr>
-  <tr>
-    <td>Kitty Theme</td>
-    <td>3024 Night</td>
-  </tr>
-</table>
+<p><b>Colors:</b> Breeze Dark</p>
+<p><b>Kitty Theme:</b> 3024 Night</p>
+
 
 ---
 
