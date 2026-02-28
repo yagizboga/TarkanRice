@@ -19,11 +19,11 @@
 
 <table align="center">
   <tr>
-    <td><b>Renk Şeması</b></td>
+    <td><b>Colors</b></td>
     <td>Breeze Dark</td>
   </tr>
   <tr>
-    <td><b>Duvar Kağıdı</b></td>
+    <td><b>Wallpaper</b></td>
     <td><code>wallpaper.png</code></td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@
     <td>Kitty</td>
   </tr>
   <tr>
-    <td><b>Kitty Teması</b></td>
+    <td><b>Kitty Theme</b></td>
     <td>3024 Night</td>
   </tr>
   <tr>
