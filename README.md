@@ -19,28 +19,16 @@
 
 <table align="center">
   <tr>
-    <td><b>Colors</b></td>
+    <td>Colors</td>
     <td>Breeze Dark</td>
   </tr>
   <tr>
-    <td><b>Wallpaper</b></td>
+    <td>Wallpaper</td>
     <td><code>wallpaper.png</code></td>
   </tr>
   <tr>
-    <td><b>Terminal</b></td>
-    <td>Kitty</td>
-  </tr>
-  <tr>
-    <td><b>Kitty Theme</b></td>
+    <td>Kitty Theme</td>
     <td>3024 Night</td>
-  </tr>
-  <tr>
-    <td><b>Fastfetch Config</b></td>
-    <td><code>fastfetch-config.jsonc</code></td>
-  </tr>
-  <tr>
-    <td><b>Fastfetch Logo</b></td>
-    <td><code>fastfetch-logo.txt</code></td>
   </tr>
 </table>
 
