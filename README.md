@@ -15,7 +15,7 @@
 
 </div>
 
-<h2 align="center">Details<h2>
+<h2 align="center">Details</h2>
 
 <p><b>Colors:</b> Breeze Dark</p>
 <p><b>Kitty Theme:</b> 3024 Night</p>
