@@ -1,2 +1,1 @@
-# TarkanRice
-Tarkan themed rice for KDE Plasma
+<p align="center"> <img src="wallpaper.png" width="200"/> </p> <p align="center"> Tarkan Rice for KDE Plasma </p> <p align="center"> <a href="#-özellikler">Özellikler</a> • <a href="#-ekran-görüntüleri">Ekran Görüntüleri</a> • <a href="#-kurulum">Kurulum</a> • <a href="#-kullanım">Kullanım</a> • <a href="#-teknolojiler">Teknolojiler</a> • <a href="#-lisans">Lisans</a> </p>
