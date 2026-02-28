@@ -23,10 +23,6 @@
     <td>Breeze Dark</td>
   </tr>
   <tr>
-    <td>Wallpaper</td>
-    <td><code>wallpaper.png</code></td>
-  </tr>
-  <tr>
     <td>Kitty Theme</td>
     <td>3024 Night</td>
   </tr>
